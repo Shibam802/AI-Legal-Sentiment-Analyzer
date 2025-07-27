@@ -99,11 +99,11 @@ Neutral Segments: 25 (50.0%)
 
 ## Sample Results (first 5 segments):
 text                                              sentiment
-Soumyadeep won the case with strong evidence.       Positive
-The ruling was contested by Anapaneya.              Negative
-The contract terms were standard.                   Neutral
-12/05/2025 marked the appeal deadline.              Neutral
-Rahul expressed concerns over the verdict.          Negative
+.Soumyadeep won the case with strong evidence.       Positive
+.The ruling was contested by Anapaneya.              Negative
+.The contract terms were standard.                   Neutral
+.12/05/2025 marked the appeal deadline.              Neutral
+.Rahul expressed concerns over the verdict.          Negative
 
 
 
