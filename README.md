@@ -98,12 +98,22 @@ Neutral Segments: 25 (50.0%)
 - The document maintains a balanced or neutral tone, with no strong positive or negative bias.
 
 ## Sample Results (first 5 segments):
-text                                              sentiment
-.Soumyadeep won the case with strong evidence.       Positive
-.The ruling was contested by Anapaneya.              Negative
-.The contract terms were standard.                   Neutral
-.12/05/2025 marked the appeal deadline.              Neutral
-.Rahul expressed concerns over the verdict.          Negative
+
+**Text:** Soumyadeep won the case with strong evidence.  
+**Sentiment:** Positive  
+
+**Text:** The ruling was contested by Anapaneya.  
+**Sentiment:** Negative  
+
+**Text:** The contract terms were standard.  
+**Sentiment:** Neutral  
+
+**Text:** 12/05/2025 marked the appeal deadline.  
+**Sentiment:** Neutral  
+
+**Text:** Rahul expressed concerns over the verdict.  
+**Sentiment:** Negative  
+
 
 
 
