@@ -1,4 +1,5 @@
-Legal Sentiment Analyzer
+## Legal Sentiment Analyzer
+
 ## Overview
 The Legal Sentiment Analyzer is a Python script (legal_sentiment_analyzer.py) designed to perform sentiment analysis on legal texts, such as court documents, contracts, or other legal documents. It leverages the Google FLAN-T5 model from the transformers library to classify the sentiment of text segments as Positive, Negative, or Neutral. The script processes input files (text or CSV), preprocesses the text, analyzes sentiment at the sentence level, and generates a summary of the results.
 
@@ -61,7 +62,7 @@ CSV file (.csv): A CSV file with a text column containing legal texts.
 python legal_sentiment_analyzer.py
 
 
-Enter the path to your input file when prompted (e.g., input_data.csv or document.txt).
+Enter the path to your input file when prompted :"C:\Users\shiba\Downloads\Legal_Agreement_Template.txt".
 
 ## The script will:
 
